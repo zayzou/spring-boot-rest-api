@@ -27,6 +27,8 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 .idea
+target
+.mvn
 
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
